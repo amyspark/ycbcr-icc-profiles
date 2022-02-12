@@ -1,0 +1,4 @@
+// SPDX-FileCopyrightText: 2022 Amyspark <amy@amyspark.me>
+// SPDX-License-Identifier: BSD-3-Clause
+
+#define COMMIT "@VCS_TAG@"
